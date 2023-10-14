@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhinav Rana</h1>
 <h3 align="center">Exploring Tech Horizons | DevOps Enthusiast | Crafting Code for Tomorrow</h3>
-<img align="right" alt="coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=hQR3%2ftCL&id=DF10FB0CB9404A9D2AAE3F3FA078CD4A215A5FF6&thid=OIP.hQR3_tCL_phZgIK80wnOcAHaFj&mediaurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f1292677%2fscreenshots%2f6139167%2favento.gif&exph=600&expw=800&q=coding+gifs&simid=607996541687302667&FORM=IRPRST&ck=299AB07792DA18729A13F6614CEECB67&selectedIndex=98">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
 - 🌱 I’m currently learning **DevOps, Artificial Intelligence and Data Science**
 
@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **abhi.rana2910@gmail.com**
 
-- ⚡ Fun fact **The first computer "bug" was a real moth found inside a computer relay by Grace Hopper in 1947.**
+- ⚡ Fun fact: **The first computer "bug" was a real moth found inside a computer relay by Grace Hopper in 1947.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
